@@ -5,7 +5,11 @@
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
+<<<<<<< HEAD
     "strict": false,
+=======
+    "strict": true,
+>>>>>>> efc906c (Comienzo)
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,

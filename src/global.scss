@@ -16,7 +16,11 @@
 @import "@ionic/angular/css/normalize.css";
 @import "@ionic/angular/css/structure.css";
 @import "@ionic/angular/css/typography.css";
+<<<<<<< HEAD
 @import '@ionic/angular/css/display.css';
+=======
+@import "@ionic/angular/css/display.css";
+>>>>>>> efc906c (Comienzo)
 
 /* Optional CSS utils that can be commented out */
 @import "@ionic/angular/css/padding.css";
@@ -24,6 +28,7 @@
 @import "@ionic/angular/css/text-alignment.css";
 @import "@ionic/angular/css/text-transformation.css";
 @import "@ionic/angular/css/flex-utils.css";
+<<<<<<< HEAD
 
 ion-button {
     text-transform: none;
@@ -129,3 +134,5 @@ ion-button {
         --height: 680px;
     }
 }
+=======
+>>>>>>> efc906c (Comienzo)

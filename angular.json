@@ -136,8 +136,12 @@
   "cli": {
     "schematicCollections": [
       "@ionic/angular-toolkit"
+<<<<<<< HEAD
     ],
     "analytics": false
+=======
+    ]
+>>>>>>> efc906c (Comienzo)
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
